@@ -71,7 +71,7 @@ const Add = () => {
               sx={{ width: 30, height: 30 }}
             />
             <Typography fontWeight={500} variant="span">
-              John Doe
+              Mohit
             </Typography>
           </UserBox>
           <TextField
